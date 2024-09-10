@@ -9,6 +9,8 @@
 - run `mongoimport --db civilian-cop --collection cops --drop --file ./db/cops.json` to import sample cop information in MongoDB
 - run `mongoimport --db civilian-cop --collection requests --drop --file ./db/crime-data.json` to import sample crime information in MongoDB
 
+- Project Live Demo - https://drive.google.com/file/d/1QQWGZJ_d8iTZ1sO19WJyGYr8OY_ejK6h/view?usp=drive_link
+
 ## How to run:
 - Run `node app.js` in your project root folder
 - Open a demo civilian page by going to http://localhost:8000/civilian.html?userId=YOURNAME
